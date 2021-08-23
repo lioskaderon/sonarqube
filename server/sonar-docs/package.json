@@ -23,7 +23,7 @@
     "react-helmet": "5.2.1",
     "react-typography": "0.16.19",
     "rehype-react": "6.1.0",
-    "typography": "0.16.19"
+    "typography": "0.16.21"
   },
   "devDependencies": {
     "@types/classnames": "2.2.7",
