@@ -1,4 +1,6 @@
 SonarQube [![Build Status](https://travis-ci.org/SonarSource/sonarqube.svg?branch=master)](https://travis-ci.org/SonarSource/sonarqube) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=org.sonarsource.sonarqube%3Asonarqube&metric=alert_status)](https://sonarcloud.io/dashboard?id=org.sonarsource.sonarqube%3Asonarqube)
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/475bfd5b-7938-455e-901c-903a1b2001fa.svg?orgId=670770672000)](https://app.soluble.cloud/repos/details/github.com/lioskaderon/sonarqube?orgId=670770672000)  
 =========
 
 Continuous Inspection
